@@ -2,6 +2,7 @@
   "configuration": {
     "push": {
       "configuration": {
+        "branches": ["master", "production", "staging", "[vV][\d\.]+"],
         "emoji-style": "default",
         "fingerprints": {
           "about-hint": "true",
